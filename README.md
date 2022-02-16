@@ -1,5 +1,5 @@
-# snappy_poc
-snappy compression POC
+# snappy and LZ4 comparision and POC
+
 
 
 output of the code :
